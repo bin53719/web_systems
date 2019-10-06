@@ -41,6 +41,7 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
+<?php echo '<p>Add comment by Bin Duan</p>'; ?>
 </body>
 </html>
 
